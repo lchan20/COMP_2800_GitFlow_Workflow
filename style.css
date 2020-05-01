@@ -1,0 +1,13 @@
+/* Homegrown Logo */
+.homegrown {
+    width: 30%;
+}
+
+/* Container for all the inputs */
+form {
+    padding: 0 5%;
+}
+
+/* Individual bootstrap form inputs */
+.form-group {
+}
